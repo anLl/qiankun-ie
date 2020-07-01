@@ -1,0 +1,8 @@
+/node_modules/
+dist
+.vscode
+*.zip
+*.rar
+JHOP5-ADMIN
+.idea
+.vs
